@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@material-ui/icons": "^4.11.3",
+    "bootstrap-icons": "^1.11.3"
+  }
+}
